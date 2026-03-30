@@ -1,61 +1,169 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-
-    <product>
-        <id>1001</id>
-        <name>Siyah Basic Tişört</name>
-        <brand>EMR</brand>
-        <category>Giyim > Tişört</category>
-        <stock>50</stock>
-        <price>299.90</price>
-        <barcode>8691234567890</barcode>
-        <sku>EMR-TSHIRT-001</sku>
-        <description>Premium pamuklu siyah basic tişört. Günlük kullanım için ideal.</description>
-        <image>https://via.placeholder.com/500</image>
-        <images>
-            <img>https://via.placeholder.com/500</img>
-            <img>https://via.placeholder.com/501</img>
-        </images>
-        <vat>20</vat>
-        <desi>1</desi>
-    </product>
-
-    <product>
-        <id>1002</id>
-        <name>Beyaz Sneaker</name>
-        <brand>EMR</brand>
-        <category>Ayakkabı > Sneaker</category>
-        <stock>30</stock>
-        <price>799.90</price>
-        <barcode>8691234567891</barcode>
-        <sku>EMR-SNK-002</sku>
-        <description>Modern tasarımlı beyaz sneaker. Hafif ve rahat taban.</description>
-        <image>https://via.placeholder.com/500</image>
-        <images>
-            <img>https://via.placeholder.com/500</img>
-            <img>https://via.placeholder.com/501</img>
-        </images>
-        <vat>20</vat>
-        <desi>2</desi>
-    </product>
-
-    <product>
-        <id>1003</id>
-        <name>Oversize Hoodie</name>
-        <brand>EMR</brand>
-        <category>Giyim > Sweatshirt</category>
-        <stock>15</stock>
-        <price>499.90</price>
-        <barcode>8691234567892</barcode>
-        <sku>EMR-HOODIE-003</sku>
-        <description>Oversize kesim hoodie. Soğuk havalar için ideal.</description>
-        <image>https://via.placeholder.com/500</image>
-        <images>
-            <img>https://via.placeholder.com/500</img>
-            <img>https://via.placeholder.com/501</img>
-        </images>
-        <vat>20</vat>
-        <desi>2</desi>
-    </product>
-
-</products>
+  <product>
+    <id>1001</id>
+    <name>Siyah Basic Tişört</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Tişört</category>
+    <stock>42</stock>
+    <price>249.90</price>
+    <barcode>869000001001</barcode>
+    <sku>EMR-TSHIRT-001</sku>
+    <description>Günlük kullanıma uygun siyah basic erkek tişört.</description>
+    <image>https://via.placeholder.com/500?text=Urun+1</image>
+    <vat>20</vat>
+    <desi>1</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20001</trendyolCategoryId>
+    <hepsiburadaCategoryId>30001</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1002</id>
+    <name>Beyaz Oversize Tişört</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Tişört</category>
+    <stock>38</stock>
+    <price>279.90</price>
+    <barcode>869000001002</barcode>
+    <sku>EMR-TSHIRT-002</sku>
+    <description>Oversize kalıpta beyaz erkek tişört modeli.</description>
+    <image>https://via.placeholder.com/500?text=Urun+2</image>
+    <vat>20</vat>
+    <desi>1</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20001</trendyolCategoryId>
+    <hepsiburadaCategoryId>30001</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1003</id>
+    <name>Lacivert Polo Yaka Tişört</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Polo Yaka</category>
+    <stock>25</stock>
+    <price>349.90</price>
+    <barcode>869000001003</barcode>
+    <sku>EMR-POLO-003</sku>
+    <description>Lacivert renk polo yaka erkek tişört.</description>
+    <image>https://via.placeholder.com/500?text=Urun+3</image>
+    <vat>20</vat>
+    <desi>1</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20002</trendyolCategoryId>
+    <hepsiburadaCategoryId>30002</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1004</id>
+    <name>Gri Kapüşonlu Sweatshirt</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Sweatshirt</category>
+    <stock>18</stock>
+    <price>499.90</price>
+    <barcode>869000001004</barcode>
+    <sku>EMR-SWEAT-004</sku>
+    <description>Yumuşak kumaşlı gri kapüşonlu sweatshirt.</description>
+    <image>https://via.placeholder.com/500?text=Urun+4</image>
+    <vat>20</vat>
+    <desi>2</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20003</trendyolCategoryId>
+    <hepsiburadaCategoryId>30003</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1005</id>
+    <name>Siyah Fermuarlı Hoodie</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Hoodie</category>
+    <stock>14</stock>
+    <price>579.90</price>
+    <barcode>869000001005</barcode>
+    <sku>EMR-HOODIE-005</sku>
+    <description>Fermuarlı siyah hoodie, günlük kombinler için ideal.</description>
+    <image>https://via.placeholder.com/500?text=Urun+5</image>
+    <vat>20</vat>
+    <desi>2</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20004</trendyolCategoryId>
+    <hepsiburadaCategoryId>30004</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1006</id>
+    <name>Antrasit Eşofman Altı</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Eşofman Altı</category>
+    <stock>26</stock>
+    <price>429.90</price>
+    <barcode>869000001006</barcode>
+    <sku>EMR-ESFALT-006</sku>
+    <description>Rahat kalıplı antrasit erkek eşofman altı.</description>
+    <image>https://via.placeholder.com/500?text=Urun+6</image>
+    <vat>20</vat>
+    <desi>1</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20005</trendyolCategoryId>
+    <hepsiburadaCategoryId>30005</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1007</id>
+    <name>Bej Jogger Pantolon</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Pantolon</category>
+    <stock>21</stock>
+    <price>459.90</price>
+    <barcode>869000001007</barcode>
+    <sku>EMR-PANT-007</sku>
+    <description>Modern kesimli bej jogger pantolon.</description>
+    <image>https://via.placeholder.com/500?text=Urun+7</image>
+    <vat>20</vat>
+    <desi>1</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20006</trendyolCategoryId>
+    <hepsiburadaCategoryId>30006</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1008</id>
+    <name>Mavi Slim Fit Jean</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Jean</category>
+    <stock>19</stock>
+    <price>689.90</price>
+    <barcode>869000001008</barcode>
+    <sku>EMR-JEAN-008</sku>
+    <description>Günlük kullanıma uygun slim fit mavi jean.</description>
+    <image>https://via.placeholder.com/500?text=Urun+8</image>
+    <vat>20</vat>
+    <desi>2</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+    <trendyolCategoryId>20007</trendyolCategoryId>
+    <hepsiburadaCategoryId>30007</hepsiburadaCategoryId>
+    <trendyolDeliveryDuration>3</trendyolDeliveryDuration>
+    <hbWarranty>24</hbWarranty>
+  </product>
+  <product>
+    <id>1009</id>
+    <name>Siyah Bomber Ceket</name>
+    <brand>EMR</brand>
+    <category>Giyim > Erkek > Ceket</category>
+    <stock>11</stock>
+    <price>899.90</price>
+    <barcode>869000001009</barcode>
+    <sku>EMR-CEKET-009</sku>
+    <description>Minimal tasarımlı siyah bomber ceket.</description>
+    <image>https://via.placeholder.com/500?text=Urun+9</image>
+    <vat>20</vat>
+    <desi>2</desi>
+    <trendyolBrandId>10001</trendyolBrandId>
+   
