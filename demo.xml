@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  <product>
+    <id>1</id>
+    <name>Siyah Tişört</name>
+    <price>299</price>
+    <stock>20</stock>
+    <category>Tişört</category>
+    <image>https://via.placeholder.com/300</image>
+  </product>
+  <product>
+    <id>2</id>
+    <name>Beyaz Sneaker</name>
+    <price>799</price>
+    <stock>10</stock>
+    <category>Ayakkabı</category>
+    <image>https://via.placeholder.com/300</image>
+  </product>
+</products>
