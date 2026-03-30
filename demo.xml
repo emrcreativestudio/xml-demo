@@ -1,19 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <products>
-  <product>
-    <id>1</id>
-    <name>Siyah Tişört</name>
-    <price>299</price>
-    <stock>20</stock>
-    <category>Tişört</category>
-    <image>https://via.placeholder.com/300</image>
-  </product>
-  <product>
-    <id>2</id>
-    <name>Beyaz Sneaker</name>
-    <price>799</price>
-    <stock>10</stock>
-    <category>Ayakkabı</category>
-    <image>https://via.placeholder.com/300</image>
-  </product>
+
+    <product>
+        <id>1001</id>
+        <name>Siyah Basic Tişört</name>
+        <brand>EMR</brand>
+        <category>Giyim > Tişört</category>
+        <stock>50</stock>
+        <price>299.90</price>
+        <barcode>8691234567890</barcode>
+        <sku>EMR-TSHIRT-001</sku>
+        <description>Premium pamuklu siyah basic tişört. Günlük kullanım için ideal.</description>
+        <image>https://via.placeholder.com/500</image>
+        <images>
+            <img>https://via.placeholder.com/500</img>
+            <img>https://via.placeholder.com/501</img>
+        </images>
+        <vat>20</vat>
+        <desi>1</desi>
+    </product>
+
+    <product>
+        <id>1002</id>
+        <name>Beyaz Sneaker</name>
+        <brand>EMR</brand>
+        <category>Ayakkabı > Sneaker</category>
+        <stock>30</stock>
+        <price>799.90</price>
+        <barcode>8691234567891</barcode>
+        <sku>EMR-SNK-002</sku>
+        <description>Modern tasarımlı beyaz sneaker. Hafif ve rahat taban.</description>
+        <image>https://via.placeholder.com/500</image>
+        <images>
+            <img>https://via.placeholder.com/500</img>
+            <img>https://via.placeholder.com/501</img>
+        </images>
+        <vat>20</vat>
+        <desi>2</desi>
+    </product>
+
+    <product>
+        <id>1003</id>
+        <name>Oversize Hoodie</name>
+        <brand>EMR</brand>
+        <category>Giyim > Sweatshirt</category>
+        <stock>15</stock>
+        <price>499.90</price>
+        <barcode>8691234567892</barcode>
+        <sku>EMR-HOODIE-003</sku>
+        <description>Oversize kesim hoodie. Soğuk havalar için ideal.</description>
+        <image>https://via.placeholder.com/500</image>
+        <images>
+            <img>https://via.placeholder.com/500</img>
+            <img>https://via.placeholder.com/501</img>
+        </images>
+        <vat>20</vat>
+        <desi>2</desi>
+    </product>
+
 </products>
